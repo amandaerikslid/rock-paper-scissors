@@ -1,0 +1,10 @@
+.red-btn {
+    color:rgb(255, 254, 254);
+    background-color: rgb(207, 21, 21);
+    border: none;
+}
+
+.blue-btn {
+    background-color: blue;
+    color:aqua;
+}
